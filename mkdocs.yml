@@ -1,0 +1,40 @@
+site_name: e4cape docs 
+site_url: 'http://4c.netlify.com'
+repo_url: 'https://github.com/Samet-MohamedAmin/e4cape_docs_frontend'
+edit_uri: edit/master/docs
+site_description: 'A simple desc here.'
+# google_analytics: ['UA-xxxxxxxxx-x', 'example.com']
+extra:
+  favicon: 'https://4c.netlify.com/assets/favicon.png'
+  social:
+    - type: 'globe'
+      link: 'http://4c.netlify.com'
+    - type: 'github'
+      link: 'https://github.com/xxxxxx'
+    - type: 'facebook'
+      link: 'https://facebook.com/xxxxxxx'
+    - type: 'twitter'
+      link: 'https://twitter.com/xxxxxxx'
+theme:
+  name: 'material'
+  language: fr
+  palette:
+    primary: brown
+    accent: deep-orange
+  feature:
+    tabs: true
+copyright:
+  4C INSAT
+markdown_extensions:
+    - admonition
+    - codehilite
+    - toc:
+        permalink: true
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.critic
+    - pymdownx.mark
+    - pymdownx.progressbar
+    - pymdownx.superfences
+    - pymdownx.inlinehilite
+
