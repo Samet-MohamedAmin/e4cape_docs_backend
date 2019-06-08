@@ -1,6 +1,6 @@
 site_name: e4cape docs 
 site_url: 'http://4c.netlify.com'
-repo_url: 'https://github.com/Samet-MohamedAmin/e4cape_docs_frontend'
+repo_url: 'https://github.com/Samet-MohamedAmin/e4cape_docs_backend'
 edit_uri: edit/master/docs
 site_description: 'A simple desc here.'
 # google_analytics: ['UA-xxxxxxxxx-x', 'example.com']
